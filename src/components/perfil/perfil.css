@@ -1,0 +1,29 @@
+body{
+    background-color: rgba(250, 229, 211);
+}
+
+#bienvenido{
+    color: black;
+}
+
+h3, h2{
+    display: inline;
+    margin-top: 40px;
+    line-height: 2;
+}
+
+#monto{
+    margin-left: 15px;
+}
+
+#formulario{
+    margin-top: 20px;
+}
+
+#consultar:hover, #ingresar:hover, #retirar:hover, #salir:hover{
+    cursor: pointer;
+}
+
+#nuevoMonto{
+    display: inline;
+}
